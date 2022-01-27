@@ -3,8 +3,8 @@
 ### Who am I?
 
 - A Brazilian girl with a Uruguayan/French heart ! 🇧🇷 🇺🇾 🇫🇷
-- ⏪ I have worked with the @[Buscojobs](https://buscojobs.com) developers team as a project manager for 5 years
-- ⏩ Currently, I'm a **JS developer** at @[Eleven Labs](https://eleven-labs.com/)
+- ⏪ I have worked with the @[Buscojobs](https://buscojobs.com) developers team as a project manager for 5 years before joining @[Rubato](https://rubato.fr) as a JS developer.
+- ⏩ Currently, I'm a **web developer** at @[Eleven Labs](https://eleven-labs.com/)
 - 🧡 I'm passionate about code and web technologies (... and about vim mode!)
 
 ### My goals
