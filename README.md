@@ -7,10 +7,6 @@
 - ⏩ Currently, I'm a **Node.js developer** at @[Eleven Labs](https://eleven-labs.com/)
 - 🧡 I'm passionate about code and web technologies (... and about vim mode!)
 
-### My goals
-
-- Get closer to DevOps world and get some experience on this exciting domain.
-- Go deep with databases and data management.
 
 ### Main skills
 
